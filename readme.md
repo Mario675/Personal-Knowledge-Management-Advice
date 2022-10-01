@@ -117,6 +117,7 @@ All these `#h1` headers are separate files. Thus if one wanted to search for idi
 
 ### Organizing in heterarchal order
 
+```md
 Instead of frustrating yourself with 
 1. topic
 2. topic
@@ -125,7 +126,9 @@ and then having to reorganize them and retype them, try:
 topic
 topic
 topic
+
 Now it is easy to copy and paste these things around, or just not needed to do so in the first place.
+```
 
 If one wants alphabetical order to view, just make a tag search, and the computer will put them in alphabetical order automatically.
 Heterarchy is also an example of a map of content. 
